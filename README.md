@@ -84,4 +84,4 @@ The experiment uses one dataset and a simplified shortcut definition. The deleti
 
 ## License
 
-The code in this repository is released under the MIT License. Dataset terms remain those of the original dataset provider.
+No license has been selected yet. Dataset terms remain those of the original dataset provider.
