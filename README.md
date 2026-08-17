@@ -74,14 +74,9 @@ The complete run is computationally expensive. Generated checkpoints, per-seed o
 - `run_deletion_test.py`: deletion-based diagnostic for LIME-selected tokens.
 - `aggregate_seeds.py`: aggregation of metrics across the three seeds.
 - `run_all_seeds.sh`: complete multi-seed pipeline.
-- `report.md`: full experiment report.
 - `report.tex`: LaTeX version of the report.
 - `requirements.txt`: Python dependencies.
 
 ## Limitations
 
 The experiment uses one dataset and a simplified shortcut definition. The deletion test has no random-token baseline, and LIME explanations are not a direct readout of the model's internal representations. The results therefore concern predictive behavior and local attribution patterns, not general language understanding or grounded cognition.
-
-## License
-
-No license has been selected yet. Dataset terms remain those of the original dataset provider.
