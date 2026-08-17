@@ -1,0 +1,27 @@
+# Local data and generated model artifacts
+IMDB Dataset.csv
+outputs/
+outputs_seed123/
+outputs_seed2024/
+models/
+*.pt
+
+# Python and local environment files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.Rhistory
+
+# Logs and local reports
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+
+# Personal or course-only materials
+*.pdf
+last_final_nlp/
+AGENTS.md
